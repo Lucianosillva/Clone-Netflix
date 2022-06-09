@@ -38,7 +38,7 @@ header nav a:hover {
 .filme-principal {
     font-size: 16px;
     /* Usando o linear-gradient neste caso ele passa uma camada fina de cor em cima */
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-house.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa-house.jpg');
     background-size: cover;
     height: 400px;
     display: flex;
